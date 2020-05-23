@@ -1,0 +1,22 @@
+# main links links
+main:
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Presentations"
+    url: /talks/    
+
+  - title: "Teaching"
+    url: /teaching/    
+    
+  - title: "Code"
+    url: /code/
+        
+  - title: "About Me"
+    url: /portfolio/
+    
+  - title: "CV"
+    url: /https://carolinemyers.github.io/files/CV.pdf/
+    
+  - title: "Guide"
+    url: /markdown/
