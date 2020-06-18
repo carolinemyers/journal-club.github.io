@@ -7,7 +7,7 @@ main:
     url: /teaching/    
     
   - title: "Code"
-    url: /code/
+     /_pages/github.html
         
   - title: "Presentations"
     url: /portfolio/
