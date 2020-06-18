@@ -7,7 +7,7 @@ main:
     url: /teaching/    
     
   - title: "Code"
-     /_pages/github.html
+    url: /_pages/github.html
         
   - title: "Presentations"
     url: /portfolio/
@@ -16,4 +16,4 @@ main:
     url: /cv/
 
   - title: "Participate!"
-    /_pages/participate.html
+    url: /_pages/participate.html
