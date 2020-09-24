@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a graduate student within the NYU Department of Psychology and Center for Neural Science, where I am a researcher and lab manager in the Carrasco Lab under Dr. Marisa Carrasco. I'm interested in visual perception and attention, with a particular focus on how visual perception changes over the course of human development. My other research interests include eye movements and microsaccadic suppression, decision-making and uncertainty, and individual and group-level differences in music perception. 
+I am currently a graduate student within the NYU Department of Psychology and Center for Neural Science, where I am a researcher and lab manager in the Carrasco Lab under Dr. Marisa Carrasco. I'm interested in visual perception and attention, with a particular focus on how visual perception changes over the course of human development. My other research interests include individual and group-level differences in visual perception and attention, oculomotor behavior, and empirical aesthetics.  
 
 Participate in research! 
 ======
