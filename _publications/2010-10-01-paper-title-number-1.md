@@ -3,7 +3,7 @@ title: "Oculomotor freezing reflects tactile temporal expectation and aids tacti
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Abstract: The oculomotor system keeps the eyes steady in expectation of visual events. Here, recording microsaccades while people performed a tactile (frequency discrimination) task enabled us to test whether the oculomotor system shows an analogous preparatory response for unrelated tactile events. We manipulated the temporal predictability of tactile targets using tactile cues, which preceded the target by either constant (high predictability) or variable (low predictability) time intervals. Microsaccades were inhibited prior to target onset and more so for constant than variable intervals. This microsaccadic inhibition reveals a tight cross-modal link between tactile temporal expectation and oculomotor action. These findings –together with parallel findings in audition– portray oculomotor freezing as a marker of supramodal temporal expectation. Moreover, microsaccades occurring around the tactile target presentation were associated with reduced task performance, suggesting that oculomotor freezing mitigates potential detrimental, concomitant effects of microsaccades and revealing a cross-modal coupling between tactile perception and oculomotor action.'
-date: 2019/4/17
+date: 2020/07/03
 venue: 'Nature Communications'
 paperurl: 'http://carolinemyers.github.io/files/NatComm.pdf'
 citation: 'Badde, S., Myers, C., Yuval-Greenberg, S. & Carrasco, M. (2020). &quot;Oculomotor freezing reflects tactile temporal expectation and aids tactile perception .&quot; <i> Nature Communications. 1</i>. 11(1): 3341.'
