@@ -8,3 +8,4 @@ date: 2019-01-01
 location: "New York, New York"
 ---
 [Link to my course evaluations](../files/Myers_Evaluations_Cog2020.pdf)
+[Link to my course evaluations](/carolinemyers.github.io/files/Myers_Evaluations_Cog2020.pdf)
