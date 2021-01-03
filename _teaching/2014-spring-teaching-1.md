@@ -7,4 +7,4 @@ venue: "New York University, Department of Psychology"
 date: 2019-01-01
 location: "New York, New York"
 ---
-[Link to my course evaluations](../blob/master/files/Myers_Evaluations_Cog2020.pdf)
+[Link to my course evaluations](../files/Myers_Evaluations_Cog2020.pdf)
