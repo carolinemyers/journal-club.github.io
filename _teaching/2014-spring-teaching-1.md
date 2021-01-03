@@ -9,4 +9,4 @@ location: "New York, New York"
 ---
 [Link to Fall 2020 course evaluations](../files/Myers_Evaluations_CogF2020.pdf)
 
-[Link to Spring 2020 course evaluations](../files/Myers_Evaluations_Cog2020.pdf)
+[Link to Spring 2020 course evaluations](../files/Myers_Evaluations_CogS2020.pdf)
