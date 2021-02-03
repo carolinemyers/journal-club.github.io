@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 
-<br/><img src='/images/CV_Page_1.png'>
-<br/><img src='/images/CV_Page_2.png'>
-<br/><img src='/images/CV_Page_3.png'>
+<br/><img src='/images/CV1.png'>
+<br/><img src='/images/CV2.png'>
+<br/><img src='/images/CV3.png'>
+<br/><img src='/images/CV4.png'>
