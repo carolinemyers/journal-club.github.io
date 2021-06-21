@@ -12,7 +12,7 @@ I am going into my first year as a Ph.D. candidate at Johns Hopkins University i
 
 About me
 ======
-I'm a 
+I love classic music (playing and listening), animals, and all things athletic (running, hiking, climbing.) 
 
 Participate in research! 
 ======
