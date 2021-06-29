@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Beginning in the fall of 2021, I’ll be joining the labs of [Chaz Firestone](https://perception.jhu.edu/) and Justin Halberda at Johns Hopkins University as a PhD candidate in the [Department of Psychological and Brain Sciences](https://pbs.jhu.edu/). 
+Beginning in the fall of 2021, I’ll be joining the labs of [Chaz Firestone](https://perception.jhu.edu/) and [Justin Halberda](https://www.halberdalab.net/) at Johns Hopkins University as a PhD candidate in the [Department of Psychological and Brain Sciences](https://pbs.jhu.edu/). 
 
-I am also a recent MA graduate within the NYU Department of Psychology and Center for Neural Science, where I am a researcher and lab manager in the Carrasco Lab working with Dr. Marisa Carrasco. I'm interested in visual perception and attention, with a particular focus on how perceptual performance differs at isoeccentric peripheral locations around the visual field. My other research interests include  oculomotor markers of expectation and uncertainty, eye-movement (fixational and saccadic) and pupillometric analyses, visual attention in special and developing populations, and visual awareness in the periphery. 
+I am also a recent MA graduate within the [NYU Department of Psychology](https://as.nyu.edu/content/nyu-as/as/departments/psychology.html) and [Center for Neural Science](https://as.nyu.edu/content/nyu-as/as/departments/cns.html), where I am a researcher and lab manager in the [Carrasco Lab](https://carrascolab.hosting.nyu.edu/) working with Dr. Marisa Carrasco. I'm interested in visual perception and attention, with a particular focus on how perceptual performance differs at isoeccentric peripheral locations around the visual field. My other research interests include  oculomotor markers of expectation and uncertainty, eye-movement (fixational and saccadic) and pupillometric analyses, visual attention in special and developing populations, and visual awareness in the periphery. 
 
 About me
 ======
@@ -17,4 +17,4 @@ I love classic music (playing and listening), animals, and all things athletic (
 
 Participate in research! 
 ======
-Does your child love science, computer games, and learning about the world? Our lab is currently conducting a study to investigate how visual perception develops in children 6-18 years old, and we'd love to invite you to bring your child to participate! If you and your child are interested, sign up for one of our studies by clicking the 'Participate!' tab. 
+Does your child love science, computer games, and learning about the world? Our lab is currently conducting a study to investigate how visual perception develops in children 6-18 years old, and we'd love to invite you to bring your child to participate! If you and your child are interested, sign up for one of our studies by clicking the 'Participate!' tab or clicking [here.](https://forms.gle/xCsQeqNmh7vrLxj38)
