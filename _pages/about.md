@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Beginning in the fall of 2021, I’ll be joining the labs of Chaz Firestone and Justin Halberda at Johns Hopkins University as a PhD candidate in the Department of Psychological and Brain Sciences. 
+Beginning in the fall of 2021, I’ll be joining the labs of [Chaz Firestone](https://perception.jhu.edu/) and Justin Halberda at Johns Hopkins University as a PhD candidate in the [Department of Psychological and Brain Sciences](https://pbs.jhu.edu/). 
 
 I am also a recent MA graduate within the NYU Department of Psychology and Center for Neural Science, where I am a researcher and lab manager in the Carrasco Lab working with Dr. Marisa Carrasco. I'm interested in visual perception and attention, with a particular focus on how perceptual performance differs at isoeccentric peripheral locations around the visual field. My other research interests include  oculomotor markers of expectation and uncertainty, eye-movement (fixational and saccadic) and pupillometric analyses, visual attention in special and developing populations, and visual awareness in the periphery. 
 
