@@ -7,6 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I'm a vision scientist at NYU, where I study how visual perception develops in children and adolescents with [Marisa Carrasco](https://carrascolab.hosting.nyu.edu/people/). 
+
 Beginning in the fall of 2021, I’ll be joining the labs of [Chaz Firestone](https://perception.jhu.edu/) and [Justin Halberda](https://www.halberdalab.net/) at [Johns Hopkins University](https://www.jhu.edu/) as a PhD candidate in the [Department of Psychological and Brain Sciences](https://pbs.jhu.edu/). 
 
 I am a recent MA graduate at NYU within the [Department of Psychology](https://as.nyu.edu/content/nyu-as/as/departments/psychology.html) and [Center for Neural Science](https://as.nyu.edu/content/nyu-as/as/departments/cns.html), where I am currently a researcher and lab manager in the [Carrasco Lab](https://carrascolab.hosting.nyu.edu/) with Marisa Carrasco. My research combines behavioral psychophysics, eye movements, and computational methods to study visual perception and attention, with a focus on how perceptual performance differs at isoeccentric peripheral locations around the visual field. My other research interests include [oculomotor markers of expectation and uncertainty](https://www.nature.com/articles/s41467-020-17160-1), eye-movement (fixational and saccadic) and [pupillometric analyses](https://github.com/carolinemyers/PSA-pupil), [visual attention in special and developing populations](https://doi.org/10.1167/jov.20.11.873), and visual awareness and uncertainty in the periphery. 
