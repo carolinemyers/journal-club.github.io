@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a vision scientist at NYU, where I study how visual perception develops in children and adolescents with [Marisa Carrasco](https://carrascolab.hosting.nyu.edu/people/). 
+I am a vision scientist at NYU studying how visual perception develops in children and adolescents with [Marisa Carrasco] (https://carrascolab.hosting.nyu.edu/people/). 
 
 Beginning in the fall of 2021, I’ll be joining the labs of [Chaz Firestone](https://perception.jhu.edu/) and [Justin Halberda](https://www.halberdalab.net/) at [Johns Hopkins University](https://www.jhu.edu/) as a PhD candidate in the [Department of Psychological and Brain Sciences](https://pbs.jhu.edu/). 
 
