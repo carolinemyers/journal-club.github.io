@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<br/><img src='/images/caroline.png'>
+<br/><img src='/images/caroline.jpg'>
 
 I am a vision scientist currently studying how visual perception develops in children and adolescents with [Marisa Carrasco](https://carrascolab.hosting.nyu.edu/people/) at [NYU](https://www.nyu.edu/).
 
