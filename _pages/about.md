@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+<br/><img src='/images/caroline.png'>
+
 I am a vision scientist currently studying how visual perception develops in children and adolescents with [Marisa Carrasco](https://carrascolab.hosting.nyu.edu/people/) at [NYU](https://www.nyu.edu/).
 
 Beginning in Fall 2021, I’ll be joining the labs of [Chaz Firestone](https://perception.jhu.edu/) and [Justin Halberda](https://www.halberdalab.net/) at [Johns Hopkins University](https://www.jhu.edu/) as a PhD candidate in the [Department of Psychological and Brain Sciences](https://pbs.jhu.edu/). 
